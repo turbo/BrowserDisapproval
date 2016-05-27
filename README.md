@@ -28,3 +28,7 @@ Include the above JS, then call `disapproveOf(ID)`, where ID is
  `'Firefox'` | Firefox
  
 To disapprove of more browsers, just add another call to the `disapproveOf` function.
+
+## Why no Safari?
+
+No one gives a :poop: about Safari.
